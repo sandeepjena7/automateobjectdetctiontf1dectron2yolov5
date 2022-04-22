@@ -33,7 +33,7 @@ setup(
         ,"pandas"
         ,"seaborn"
         ,"requests"
-        ,"pycocotools-windows" #ihave not install pycocotools-windows through setup.py we can install mannualy
+        ,"pycocotools" #ihave not install pycocotools-windows through setup.py we can install mannualy
         # pip install  pycocotools-windows
     ]
     )
